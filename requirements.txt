@@ -27,5 +27,5 @@ PyYAML
 Flask-SSLify
 Flask-Mail
 flask-session
-psycopg-binary
+psycopg2-binary
 psycopg2>=2.7
